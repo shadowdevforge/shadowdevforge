@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1280" height="320" alt="ShadowDevForge" src="https://github.com/user-attachments/assets/b206fcfb-b4de-479f-9d9e-67ccdcae99ba"/>
+ <img width="1280" height="320" alt="ShadowDevForge" src="https://github.com/user-attachments/assets/30b5ed4a-c675-4b7f-aac7-71ad1ced116b" />
 </div>
 
 ---
