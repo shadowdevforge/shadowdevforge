@@ -55,11 +55,11 @@ I Use Arch, BTW. I know how to exit and use Vim.
 
 ### ⚒️ Projects I forged
 
-| Project | Description |
+| Projects | Description |
 | :--- | :--- |
 | 🐧 **[ArchBtw](https://github.com/shadowdevforge/archbtw)** | An automation script that forges a minimal Arch Linux install into a complete, professional development powerhouse. |
 | 🖋️ **[NvShade](https://github.com/shadowdevforge/NvShade)** | A fiercely forged Neovim configuration that emphasizes performance, clarity, and developer ergonomics. |
-| 📚 **[CheatSheets](https://github.com/shadowdevforge/UltimateCheatSheet)** | A curated collection of direct, "one-way-go" cheat sheets for essential programming languages. |
+| **[SyntaxForge](https://shadowdevforge.github.io/syntaxforge)** | A curated collection of direct, "one-way-go" cheat sheets for essential programming languages hosted on Github pages. |
 
 ---
 ### 📊 My Github Stats
