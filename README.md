@@ -45,7 +45,7 @@ I'm always looking for collaborators on open-source tools that enhance the devel
 | Project | Description |
 | :--- | :--- |
 | 🐧 **[ArchBtw](https://github.com/shadowdevforge/archbtw)** | An automation script that forges a minimal Arch Linux install into a complete, professional development powerhouse. |
-| 🖋️ **[NvShade](https://github.com/shadowdevforge/NvShade)** | A fiercely forged Neovim configuration that emphasizes performance, clarity, and developer ergonomics. |
+| 🖋️ **[NvShade](https://shadowdevforge.github.io/NvShade)** | A fiercely forged Neovim configuration that emphasizes performance, clarity, and developer ergonomics. |
 | 📜 **[SyntaxForge](https://shadowdevforge.github.io/syntaxforge)** | A curated collection of direct, "one-way-go" cheat sheets for essential programming languages, beautifully hosted on GitHub Pages. |
 
 ---
