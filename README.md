@@ -8,21 +8,16 @@
 
 ---
 
-### 📖 About the Forge
+### 📖 About Me
 
-I am a developer driven by the thrill of crafting challenging and robust solutions. My current work centers on building out the `shadowdevforge` ecosystem, with a deep focus on low-level systems programming. I am courrently honing my skills in **Rust** and the practical application of **Mathematics and Geometry** to solve complex problems.
+I am a developer driven by the thrill of crafting challenging and robust solutions. My current work centers on building out the `shadowdevforge` ecosystem, with a deep focus on low-level systems programming. I am currently honing my skills in RLTS (Rust + Lua + Tauri + Svelte) framework.
 
 I'm always looking for collaborators on open-source tools that enhance the developer workflow and redefine the command-line experience. If you have innovative ideas for tools or advanced performance tuning techniques, let's talk.
 
-<div align="center">
-  <a href="mailto:shadowdevforge+contact@gmail.com">
-    <img src="https://img.shields.io/badge/Status-Available%20to%20Hire%20%26%20Sponsor-brightgreen?style=for-the-badge" alt="Status: Available to Hire & Sponsor"/>
-  </a>
-</div>
 
 ---
 
-### ⚔️ My Toolkit
+### My Toolkit
 
 <p align="center">
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
@@ -38,15 +33,23 @@ I'm always looking for collaborators on open-source tools that enhance the devel
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
+<div align="center">
+  <a href="mailto:shadowdevforge+contact@gmail.com">
+    <img src="https://img.shields.io/badge/Status-Available%20to%20Hire%20%26%20Sponsor-brightgreen?style=for-the-badge" alt="Status: Available to Hire & Sponsor"/>
+  </a>
+</div>
+
 ---
 
-### ⚒️ Featured Blueprints
+### ⚒️ Featured Repository
 
 | Project | Description |
 | :--- | :--- |
-| 🐧 **[ArchBtw](https://github.com/shadowdevforge/archbtw)** | An automation script that forges a minimal Arch Linux install into a complete, professional development powerhouse. |
-| 🖋️ **[NvShade](https://github.com/shadowdevforge/NvShade)** | A fiercely forged Neovim configuration that emphasizes performance, clarity, and developer ergonomics. |
-| 📜 **[SyntaxForge](https://shadowdevforge.github.io/syntaxforge)** | A curated collection of direct, "one-way-go" cheat sheets for essential programming languages, beautifully hosted on GitHub Pages. |
+| **[ShadowToys](https://github.com/shadowdevforge/ShadowToys)** | A collection of self-contained, zero-dependency HTML artifacts. Raw experiments in curiosity and code. |
+| **[SyntaxForge](https://github.com/shadowdevforge/SyntaxForge)** | Fiercely forged syntax guides designed as fast, practical references to cut through the noise. |
+| **[NvShade](https://github.com/shadowdevforge/NvShade)** | A meticulously crafted Neovim configuration that emphasizes performance, clarity, and developer ergonomics. |
+| **[dotfiles](https://github.com/shadowdevforge/dotfiles)** | My personalized configuration for Linux environments. The foundation of the forge. |
+| **[ArchBtw](https://github.com/shadowdevforge/archbtw)** | An automation script that forges a minimal Arch Linux install into a complete, professional development powerhouse. |
 
 ---
 
@@ -68,9 +71,3 @@ I'm always looking for collaborators on open-source tools that enhance the devel
 </p>
 
 ---
-
-<div align="center">
-
-*I Use Arch, BTW. I know how to exit and use Vim.*
-
-</div>
