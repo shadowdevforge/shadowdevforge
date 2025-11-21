@@ -45,6 +45,7 @@ I'm always looking for collaborators on open-source tools that enhance the devel
 
 | Project | Description |
 | :--- | :--- |
+| **[ShadowEnv Encryption](https://github.com/shadowdevforge/ShadowEnv-Encryption)** | A production-grade, zero-knowledge directory encryption system forged in Rust. Pack, compress, and securitize digital assets. |
 | **[ShadowToys](https://github.com/shadowdevforge/ShadowToys)** | A collection of self-contained, zero-dependency HTML artifacts. Raw experiments in curiosity and code. |
 | **[SyntaxForge](https://github.com/shadowdevforge/SyntaxForge)** | Fiercely forged syntax guides designed as fast, practical references to cut through the noise. |
 | **[NvShade](https://github.com/shadowdevforge/NvShade)** | A meticulously crafted Neovim configuration that emphasizes performance, clarity, and developer ergonomics. |
