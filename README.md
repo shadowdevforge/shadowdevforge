@@ -1,19 +1,15 @@
 <div align="center">
- <img width="1280" height="320" alt="ShadowDevForge Banner" src="https://github.com/user-attachments/assets/30b5ed4a-c675-4b7f-aac7-71ad1ced116b" />
-</div>
-
-<div align="center">
   <h3>A digital blacksmith, forging high-performance tools and systems of code.</h3>
-</div>
+
 
 ---
 
 ### 📖 About Me
 
-I am a developer driven by the thrill of crafting challenging and robust solutions. My current work centers on building out the `shadowdevforge` ecosystem, with a deep focus on low-level systems programming. I am currently honing my skills in RLTS (Rust + Lua + Tauri + Svelte) framework.
+I am a developer driven by the thrill of crafting challenging and robust solutions. My current work centers on building out the `shadowdevforge` ecosystem, with a deep focus on low-level systems programming.
 
 I'm always looking for collaborators on open-source tools that enhance the developer workflow and redefine the command-line experience. If you have innovative ideas for tools or advanced performance tuning techniques, let's talk.
-
+</div>
 
 ---
 
@@ -56,16 +52,15 @@ I'm always looking for collaborators on open-source tools that enhance the devel
 
 ### 📊 The GitHub Anvil
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shadowdevforge&show_icons=true&locale=en&theme=catppuccin_mocha" alt="shadowdevforge's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shadowdevforge&show_icons=true&locale=en&layout=compact&theme=catppuccin_mocha" alt="shadowdevforge's Top Languages" />
-</p>
+<pre>
+<img src="https://github-readme-stats.vercel.app/api?username=shadowdevforge&show_icons=true&locale=en&theme=catppuccin_mocha" alt="shadowdevforge's GitHub stats" />
+</pre>
 
 ---
 
 ### 🔗 Connect with the Forge
 
-<p align="center">
+<p>
   <a href="https://github.com/shadowdevforge" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://discord.com/users/shadowdev.forge" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
   <a href="mailto:shadowdevforge+contact@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
