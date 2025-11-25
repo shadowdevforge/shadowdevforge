@@ -50,14 +50,8 @@ I'm always looking for collaborators on open-source tools that enhance the devel
 
 ---
 
-### 📊 The GitHub Anvil
-
-<pre>
-<img src="https://github-readme-stats.vercel.app/api?username=shadowdevforge&show_icons=true&locale=en&theme=catppuccin_mocha" alt="shadowdevforge's GitHub stats" />
-</pre>
-
----
-
+<div align="center">
+  
 ### 🔗 Connect with the Forge
 
 <p>
@@ -67,3 +61,5 @@ I'm always looking for collaborators on open-source tools that enhance the devel
 </p>
 
 ---
+
+</div>
