@@ -1,49 +1,57 @@
 <div align="center">
-  <h3>A digital blacksmith, forging high-performance tools and systems of code.</h3>
 
+  <h3 style="color:#cdd6f4;">A digital blacksmith, forging high-performance tools and systems of code.</h3>
 
 ---
 
-### 📖 About Me
+### 📖 <span style="color:#f5c2e7;">About Me</span>
 
-I am a developer driven by the thrill of crafting challenging and robust solutions. My current work centers on building out the `shadowdevforge` ecosystem, with a deep focus on low-level systems programming.
+<p style="color:#cdd6f4;">
+I am a developer driven by the thrill of crafting challenging and robust solutions.  
+My current work centers on building out the <code style="color:#89b4fa;">shadowdevforge</code> ecosystem, with a deep focus on low-level systems programming.
 
-I'm always looking for collaborators on open-source tools that enhance the developer workflow and redefine the command-line experience. If you have innovative ideas for tools or advanced performance tuning techniques, let's talk.
+I'm always looking for collaborators on open-source tools that enhance the developer workflow and redefine the command-line experience.  
+If you have innovative ideas for tools or advanced performance tuning techniques, let's talk.
+</p>
+
 </div>
 
 ---
 
-### My Toolkit
+### 🧰 <span style="color:#94e2d5;">My Toolkit</span>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/>
-  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+
+  <!-- Using mostly Catppuccin Mocha colors -->
+  <img src="https://img.shields.io/badge/Rust-1e1e2e?style=for-the-badge&logo=rust&logoColor=cdd6f4"/>
+  <img src="https://img.shields.io/badge/JavaScript-f9e2af?style=for-the-badge&logo=javascript&logoColor=1e1e2e"/>
+  <img src="https://img.shields.io/badge/Python-89b4fa?style=for-the-badge&logo=python&logoColor=1e1e2e"/>
+  <img src="https://img.shields.io/badge/Lua-b4befe?style=for-the-badge&logo=lua&logoColor=1e1e2e"/>
+  <img src="https://img.shields.io/badge/Ruby-f38ba8?style=for-the-badge&logo=ruby&logoColor=1e1e2e"/>
+  <img src="https://img.shields.io/badge/Bash-a6e3a1?style=for-the-badge&logo=gnubash&logoColor=1e1e2e"/>
+  <img src="https://img.shields.io/badge/HTML5-fab387?style=for-the-badge&logo=html5&logoColor=1e1e2e"/>
+  <img src="https://img.shields.io/badge/CSS3-89dceb?style=for-the-badge&logo=css3&logoColor=1e1e2e"/>
+  <img src="https://img.shields.io/badge/Node.js-a6e3a1?style=for-the-badge&logo=nodedotjs&logoColor=1e1e2e"/>
+  <img src="https://img.shields.io/badge/Neovim-94e2d5?style=for-the-badge&logo=neovim&logoColor=1e1e2e"/>
+  <img src="https://img.shields.io/badge/GitHub-181825?style=for-the-badge&logo=github&logoColor=cdd6f4"/>
+
 </p>
 
 <div align="center">
   <a href="mailto:shadowdevforge+contact@gmail.com">
-    <img src="https://img.shields.io/badge/Status-Available%20to%20Hire%20%26%20Sponsor-brightgreen?style=for-the-badge" alt="Status: Available to Hire & Sponsor"/>
+    <img src="https://img.shields.io/badge/Contact-a6e3a1?style=for-the-badge&logoColor=1e1e2e"/>
   </a>
 </div>
 
 ---
 
-### ⚒️ Featured Repository
+### ⚒️ <span style="color:#f38ba8;">Featured Repository</span>
 
 | Project | Description |
 | :--- | :--- |
 | **[ShadowEnv Encryption](https://github.com/shadowdevforge/ShadowEnv-Encryption)** | A production-grade, zero-knowledge directory encryption system forged in Rust. Pack, compress, and securitize digital assets. |
 | **[NvShade](https://github.com/shadowdevforge/NvShade)** | A meticulously crafted Neovim configuration that emphasizes performance, clarity, and developer ergonomics. |
-| **[ShadeInstaller](https://github.com/shadowdevforge/shadeinstaller)** | A beautiful, intelligent, cross-distribution Linux setup wizard that actually respects your time. |
+| **[ShadeInstaller](https://github.com/shadowdevforge/shadeinstaller)** | A beautiful, intelligent, cross-distribution Linux setup wizard that respects your time. |
 | **[SyntaxForge](https://github.com/shadowdevforge/SyntaxForge)** | Fiercely forged syntax guides designed as fast, practical references to cut through the noise. |
 | **[ShadowToys](https://github.com/shadowdevforge/ShadowToys)** | A collection of self-contained, zero-dependency HTML artifacts. Raw experiments in curiosity and code. |
 | **[dotfiles](https://github.com/shadowdevforge/dotfiles)** | My personalized configuration for Linux environments. The foundation of the forge. |
@@ -52,12 +60,12 @@ I'm always looking for collaborators on open-source tools that enhance the devel
 
 <div align="center">
   
-### 🔗 Connect with the Forge
+### 🔗 <span style="color:#b4befe;">Connect with the Forge</span>
 
 <p>
-  <a href="https://github.com/shadowdevforge" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://discord.com/users/shadowdev.forge" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
-  <a href="mailto:shadowdevforge+contact@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://github.com/shadowdevforge" target="_blank"><img src="https://img.shields.io/badge/GitHub-11111b?style=for-the-badge&logo=github&logoColor=cdd6f4"/></a>
+  <a href="https://discord.com/users/shadowdev.forge" target="_blank"><img src="https://img.shields.io/badge/Discord-7287fd?style=for-the-badge&logo=discord&logoColor=1e1e2e"/></a>
+  <a href="mailto:shadowdevforge+contact@gmail.com"><img src="https://img.shields.io/badge/Gmail-f38ba8?style=for-the-badge&logo=gmail&logoColor=1e1e2e"/></a>
 </p>
 
 ---
