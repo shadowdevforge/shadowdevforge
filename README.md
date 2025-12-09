@@ -50,7 +50,7 @@ If you have innovative ideas for tools or advanced performance tuning techniques
 | Project | Description |
 | :--- | :--- |
 | **[ShadowEnv Encryption](https://github.com/shadowdevforge/ShadowEnv-Encryption)** | A production-grade, zero-knowledge directory encryption system forged in Rust. Pack, compress, and securitize digital assets. |
-| **[NvShade](https://github.com/shadowdevforge/NvShade)** | A meticulously crafted Neovim configuration that emphasizes performance, clarity, and developer ergonomics. |
+| **[CelestialShade-Config](https://github.com/shadowdevforge/CelestialShade-Config)** | A Self Contained Lua-driven Hyprland Ecosystem |
 | **[ShadeInstaller](https://github.com/shadowdevforge/shadeinstaller)** | A beautiful, intelligent, cross-distribution Linux setup wizard that respects your time. |
 | **[SyntaxForge](https://github.com/shadowdevforge/SyntaxForge)** | Fiercely forged syntax guides designed as fast, practical references to cut through the noise. |
 | **[ShadowToys](https://github.com/shadowdevforge/ShadowToys)** | A collection of self-contained, zero-dependency HTML artifacts. Raw experiments in curiosity and code. |
