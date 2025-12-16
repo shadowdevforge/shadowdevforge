@@ -25,7 +25,7 @@
 <!-- INTRO SECTION -->
  *"I am a developer driven by the joy of crafting challenging and robust solutions."* 
   
-  My work focus on **low-level systems programming**, **developer experience (DX)**, and **automation**. I build tools that respect your time and redefine the CLI experience. I invest my energy where needed.
+  My work focuses on **low-level systems programming**, **developer experience (DX)**, and **automation**. I build tools that respect your time and redefine the CLI experience. I invest my energy where needed.
   
 </div>
 
