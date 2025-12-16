@@ -33,10 +33,9 @@
 
 
 <div align=center>
-  
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer" width="25" height="25" /> The Armory
   <!-- ROW 1: Systems & Core Scripting -->
   <!-- Using perline=8 to force a clean grid layout -->
+ 
    ####  Systems & Core Scripting
   <a href="https://skillicons.dev">
    <img src="https://skillicons.dev/icons?i=rust,c,lua,python,bash,go,nim,ruby&perline=8" />
@@ -69,9 +68,7 @@
 <div align=center>
 
 <!-- PROJECTS SECTION -->
-### ⚙️ Featured Artifacts
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" /> Featured Artifacts
+### ⚙️ Featured  Projects
 
 <table border="0" width="100%">
   <!-- ROW 1 -->
@@ -141,7 +138,7 @@
 
 <!-- STATS SECTION -->
 <div align="center">
-  <h3>📊 Forge Analytics</h3>
+  <h3>📊 Analytics</h3>
   <table align="center" width="100%">
     <tr>
       <td width="100%" align="center">
