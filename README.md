@@ -10,7 +10,7 @@
   </a>
 
   <p align="center">
-    <a href="https://github.com/shadowdevforge">
+    <a href="https://github.com/shadowdevforge?tab=followers">
       <img src="https://img.shields.io/github/followers/shadowdevforge?label=Forge%20Members&style=social" />
     </a>
     <a href="https://github.com/shadowdevforge">
@@ -20,39 +20,40 @@
 </div>
 
 ---
-<div align=center>
-  
+
 <!-- INTRO SECTION -->
- *"I am a developer driven by the joy of crafting challenging and robust solutions."* 
+<div align="center">
   
-  My work focuses on **low-level systems programming**, **developer experience (DX)**, and **automation**. I build tools that respect your time and redefine the CLI experience. I invest my energy where needed.
+ <i>"I am a developer driven by the joy of crafting challenging and robust solutions."</i> 
+  <br/><br/>
+  My work focuses on **low-level systems programming**, **developer experience (DX)**, and **automation**. <br/>
+  I build tools that respect your time and redefine the CLI experience.
   
 </div>
 
 ---
 
+<!-- TECH STACK SECTION -->
+<div align="center">
 
-<div align=center>
-  <!-- ROW 1: Systems & Core Scripting -->
-  <!-- Using perline=8 to force a clean grid layout -->
- 
-   ####  Systems & Core Scripting
+  <!-- ROW 1 -->
+  <h3>Systems & Core Scripting</h3>
   <a href="https://skillicons.dev">
    <img src="https://skillicons.dev/icons?i=rust,c,lua,python,bash,go,nim,ruby&perline=8" />
   </a>
   
   <br />
   
-  <!-- ROW 2: Frontend, Frameworks & Web -->
-   ####  Frontend, Frameworks & Web
+  <!-- ROW 2 -->
+  <h3>Frontend, Frameworks & Web</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=svelte,tauri,html,css,tailwind,vite,js,ts&perline=8" />
   </a>
   
   <br />
 
-  <!-- ROW 3: Base Tools & Platforms -->
-   ####  Base Tools & Platforms
+  <!-- ROW 3 -->
+  <h3>Base Tools & Platforms</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=neovim,git,github,linux,arch,debian,windows,docker&perline=8" />
   </a>
@@ -60,39 +61,40 @@
   <br />
   <br />
 
-
 </div>
 
 ---
 
-<div align=center>
-
 <!-- PROJECTS SECTION -->
-### ⚙️ Featured  Projects
+<div align="center">
+
+### ⚙️ Featured Projects
 
 <table border="0" width="100%">
   <!-- ROW 1 -->
   <tr>
-    <td width="33%" align="center">
+    <td width="33%" align="center" valign="top">
       <a href="https://github.com/shadowdevforge/ShadowEnv-Encryption">
+        <!-- Added a clean placeholder for the CLI tool to match height of screenshots -->
+        <img src="https://placehold.co/600x350/1e1e2e/cdd6f4?text=CLI+Tool&font=roboto" width="50%" alt="ShadowEnv" />
       </a>
       <br />
       <b>ShadowEnv Encryption</b>
       <br />
       <sub>Zero-knowledge directory encryption forged in Rust.</sub>
     </td>
-    <td width="33%" align="center">
+    <td width="33%" align="center" valign="top">
       <a href="https://github.com/shadowdevforge/CelestialShade-Config">
-      <img width="1920" height="1080" alt="CelestialShade" src="https://github.com/user-attachments/assets/8729fe94-0b96-40f5-874d-7783567cef2c" />
+        <img width="100%" alt="CelestialShade" src="https://github.com/user-attachments/assets/8729fe94-0b96-40f5-874d-7783567cef2c" />
       </a>
       <br />
       <b>CelestialShade</b>
       <br />
       <sub>Self-contained, Lua-driven Hyprland ecosystem.</sub>
     </td>
-    <td width="33%" align="center">
+    <td width="33%" align="center" valign="top">
       <a href="https://github.com/shadowdevforge/ShadePress">
-        <img width="1619" height="843" alt="ShadePress" src="https://github.com/user-attachments/assets/76cbfb56-bbeb-4555-8366-939adf0a9afc" />
+        <img width="100%" alt="ShadePress" src="https://github.com/user-attachments/assets/76cbfb56-bbeb-4555-8366-939adf0a9afc" />
       </a>
       <br />
       <b>ShadePress</b>
@@ -103,26 +105,28 @@
 
   <!-- ROW 2 -->
   <tr>
-    <td width="33%" align="center">
+    <td width="33%" align="center" valign="top">
       <a href="https://github.com/shadowdevforge/shadeinstaller">
+         <!-- Added a clean placeholder for the CLI tool -->
+         <img src="https://placehold.co/600x350/1e1e2e/cdd6f4?text=CLI+Tool&font=roboto" width="50%" alt="ShadeInstaller" />
       </a>
       <br />
       <b>ShadeInstaller</b>
       <br />
       <sub>Intelligent, cross-distro Linux setup wizard.</sub>
     </td>
-    <td width="33%" align="center">
+    <td width="33%" align="center" valign="top">
       <a href="https://github.com/shadowdevforge/SyntaxForge">
-      <img width="1768" height="925" alt="SyntaxForge" src="https://github.com/user-attachments/assets/2fd6f426-1660-4699-bc00-490dba4d0e1c" />
+        <img width="100%" alt="SyntaxForge" src="https://github.com/user-attachments/assets/2fd6f426-1660-4699-bc00-490dba4d0e1c" />
       </a>
       <br />
       <b>SyntaxForge</b>
       <br />
       <sub>Fierce syntax references designed for speed.</sub>
     </td>
-    <td width="33%" align="center">
+    <td width="33%" align="center" valign="top">
       <a href="https://github.com/shadowdevforge/ShadowToys">
-      <img width="1619" height="871" alt="image" src="https://github.com/user-attachments/assets/c1bae38a-65d7-45af-9df9-52ffd5bb45e2" />
+        <img width="100%" alt="ShadowToys" src="https://github.com/user-attachments/assets/c1bae38a-65d7-45af-9df9-52ffd5bb45e2" />
       </a>
       <br />
       <b>ShadowToys</b>
@@ -139,29 +143,36 @@
 <!-- STATS SECTION -->
 <div align="center">
   <h3>📊 Analytics</h3>
-  <table align="center" width="100%">
-    <tr>
-      <td width="100%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=shadowdevforge&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e" alt="ShadowDevForge Stats" width="100%" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=shadowdevforge&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e" alt="ShadowDevForge Stats" />
 </div>
 
 ---
 
 <!-- FOOTER -->
 <div align="center">
-  <br />
+<!-- CONTACT LINKS -->
+<div align="center">
   
-  
-  <!-- Gmail -->
+  <!-- Gmail (SkillIcons) -->
   <a href="mailto:shadowdevforge+contact@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="35" alt="Gmail" />
   </a>
 
-  <!-- Reddit -->
-   [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit)](https://www.reddit.com/r/shadowdev-forge)  
-   
-  <code>ShadowDevForge</code>
+  &nbsp;
+
+  <!-- Reddit (Simple Icons CDN - Recolored to Catppuccin Peach) -->
+  <a href="https://www.reddit.com/user/shadowdev-forge" target="_blank">
+    <img src="https://cdn.simpleicons.org/reddit/fab387" height="35" alt="Reddit" />
+  </a>
+  
+</div>
+
+</br>
+ 
+<div align="center">
+  <br />
+  <code>"The more I learn, the more I realize how much I don't know."</code>
+  <br />
+  <br />
+</div>
 </div>
