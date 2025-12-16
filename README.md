@@ -33,18 +33,25 @@
 
 ---
 
-<!-- TECH STACK SECTION -->
 <div align="center">
 
-  <!-- ROW 1 -->
-  <h3>Systems & Core Scripting</h3>
+  <!-- ROW 1: PRIMARY SYSTEMS -->
+  <h3>⚔️ Primary</h3>
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=rust,c,lua,python,bash,go,nim,ruby&perline=8" />
+    <img src="https://skillicons.dev/icons?i=rust,lua,bash,c&perline=4" />
+  </a>
+  
+  <br />
+
+  <!-- ROW 2: SUPPORTING TOOLS -->
+  <h3>🛡️ Supporting</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,go,nim,ruby&perline=4" />
   </a>
   
   <br />
   
-  <!-- ROW 2 -->
+  <!-- ROW 3: FRONTEND -->
   <h3>Frontend, Frameworks & Web</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=svelte,tauri,html,css,tailwind,vite,js,ts&perline=8" />
@@ -52,7 +59,7 @@
   
   <br />
 
-  <!-- ROW 3 -->
+  <!-- ROW 4: BASE TOOLS -->
   <h3>Base Tools & Platforms</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=neovim,git,github,linux,arch,debian,windows,docker&perline=8" />
