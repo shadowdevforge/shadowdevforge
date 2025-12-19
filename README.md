@@ -83,7 +83,7 @@
     <td width="33%" align="center" valign="top">
       <a href="https://github.com/shadowdevforge/ShadowEnv-Encryption">
         <!-- Added a clean placeholder for the CLI tool to match height of screenshots -->
-        <img src="https://placehold.co/600x350/1e1e2e/cdd6f4?text=CLI+Tool&font=roboto" width="50%" alt="ShadowEnv" />
+        <img src="https://placehold.co/600x350/1e1e2e/cdd6f4?text=ShadowEnv-Encryption&font=roboto" width="100%" alt="ShadowEnv" />
       </a>
       <br />
       <b>ShadowEnv Encryption</b>
@@ -115,7 +115,7 @@
     <td width="33%" align="center" valign="top">
       <a href="https://github.com/shadowdevforge/shadeinstaller">
          <!-- Added a clean placeholder for the CLI tool -->
-         <img src="https://placehold.co/600x350/1e1e2e/cdd6f4?text=CLI+Tool&font=roboto" width="50%" alt="ShadeInstaller" />
+         <img src="https://placehold.co/600x350/1e1e2e/cdd6f4?text=ShadeInstaler&font=roboto" width="100%" alt="ShadeInstaller" />
       </a>
       <br />
       <b>ShadeInstaller</b>
@@ -139,6 +139,35 @@
       <b>ShadowToys</b>
       <br />
       <sub>Zero-dependency raw HTML/CSS experiments.</sub>
+    </td>
+  </tr>
+   <tr>
+     <td width="33%" align="center" valign="top">
+      <a href="https://github.com/shadowdevforge/shadowwalk">
+        <img width="100%" alt="ShadowWalk" src="https://placehold.co/600x350/1e1e2e/cdd6f4?text=ShadowWalk&font=roboto" />
+      </a>
+      <br />
+      <b>Incoming...</b>
+      <br />
+      <sub></sub>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <a href="https://github.com/shadowdevforge/shadowforge.nvim">
+       <img width="1876" height="980" alt="Dashboard" src="https://github.com/user-attachments/assets/ba06042f-ee62-4b17-9609-4832ba4aa9e9" />
+      </a>
+      <br />
+      <b>shadowforge.nvim</b>
+      <br />
+      <sub>The Ultimate Neovim Experience</sub>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <a href="https://github.com/shadowdevforge/docs">
+        <img width="952" height="463" alt="image" src="https://github.com/user-attachments/assets/334b23b6-bbf0-449f-aa75-eef1eb0aa715" />
+      </a>
+      <br />
+      <b>Docs</b>
+      <br />
+      <sub>The FOSS laboratory of ShadowDev. </sub>
     </td>
   </tr>
 </table>
