@@ -115,7 +115,7 @@
     <td width="33%" align="center" valign="top">
       <a href="https://github.com/shadowdevforge/shadeinstaller">
          <!-- Added a clean placeholder for the CLI tool -->
-         <img src="https://placehold.co/600x350/1e1e2e/cdd6f4?text=ShadeInstaler&font=roboto" width="100%" alt="ShadeInstaller" />
+         <img src="https://placehold.co/600x350/1e1e2e/cdd6f4?text=ShadeInstaller&font=roboto" width="100%" alt="ShadeInstaller" />
       </a>
       <br />
       <b>ShadeInstaller</b>
